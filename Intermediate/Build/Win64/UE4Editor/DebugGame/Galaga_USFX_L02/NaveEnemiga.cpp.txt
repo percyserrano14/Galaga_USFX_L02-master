@@ -1,0 +1,3 @@
+C:\Users\VICTUS\Downloads\Galaga_USFX_L02-master (1)\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\DebugGame\Galaga_USFX_L02\Definitions.Galaga_USFX_L02.h
+C:\Users\VICTUS\Downloads\Galaga_USFX_L02-master (1)\Galaga_USFX_L02-master\Source\Galaga_USFX_L02\NaveEnemiga.h
+C:\Users\VICTUS\Downloads\Galaga_USFX_L02-master (1)\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L02\NaveEnemiga.generated.h
